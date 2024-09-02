@@ -26,7 +26,7 @@ exit
 
 ## Tasks
 
-In this project you will use good Test Driven Development (TDD) and Behavior Driven Development (BDD) techniques to write TDD test cases, BDD scenarios, and code, updating the following files:
+In this project I used good Test Driven Development (TDD) and Behavior Driven Development (BDD) techniques to write TDD test cases, BDD scenarios, and code, updating the following files:
 
 ```bash
 tests/test_models.py
@@ -36,7 +36,7 @@ features/products.feature
 features/steps/load_steps.py
 ```
 
-You will be given partial implementations in each of these files to get you started. Use those implementations as examples of the code you should write.
+
 
 ## License
 
